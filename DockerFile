@@ -1,0 +1,2 @@
+# อ้างอิงจาก Image ที่ระบุใน Architecture
+FROM ghcr.io/maplibre/martin:v0.14.2
